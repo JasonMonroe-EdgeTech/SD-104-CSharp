@@ -1,0 +1,6 @@
+C:\Projects\SD-104-CSharp\Creating-Methods-Example\bin\Debug\Creating-Methods-Example.exe.config
+C:\Projects\SD-104-CSharp\Creating-Methods-Example\bin\Debug\Creating-Methods-Example.exe
+C:\Projects\SD-104-CSharp\Creating-Methods-Example\bin\Debug\Creating-Methods-Example.pdb
+C:\Projects\SD-104-CSharp\Creating-Methods-Example\obj\Debug\Creating-Methods-Example.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\Creating-Methods-Example\obj\Debug\Creating-Methods-Example.exe
+C:\Projects\SD-104-CSharp\Creating-Methods-Example\obj\Debug\Creating-Methods-Example.pdb

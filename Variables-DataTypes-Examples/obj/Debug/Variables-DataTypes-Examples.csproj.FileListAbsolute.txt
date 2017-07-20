@@ -1,0 +1,6 @@
+C:\Projects\SD-104-CSharp\Variables-DataTypes-Examples\bin\Debug\Variables-DataTypes-Examples.exe.config
+C:\Projects\SD-104-CSharp\Variables-DataTypes-Examples\bin\Debug\Variables-DataTypes-Examples.exe
+C:\Projects\SD-104-CSharp\Variables-DataTypes-Examples\bin\Debug\Variables-DataTypes-Examples.pdb
+C:\Projects\SD-104-CSharp\Variables-DataTypes-Examples\obj\Debug\Variables-DataTypes-Examples.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\Variables-DataTypes-Examples\obj\Debug\Variables-DataTypes-Examples.exe
+C:\Projects\SD-104-CSharp\Variables-DataTypes-Examples\obj\Debug\Variables-DataTypes-Examples.pdb

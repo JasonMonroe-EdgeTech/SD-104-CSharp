@@ -1,0 +1,6 @@
+C:\Projects\SD-104-CSharp\Exception-Handling\bin\Debug\Exception-Handling.exe.config
+C:\Projects\SD-104-CSharp\Exception-Handling\bin\Debug\Exception-Handling.exe
+C:\Projects\SD-104-CSharp\Exception-Handling\bin\Debug\Exception-Handling.pdb
+C:\Projects\SD-104-CSharp\Exception-Handling\obj\Debug\Exception-Handling.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\Exception-Handling\obj\Debug\Exception-Handling.exe
+C:\Projects\SD-104-CSharp\Exception-Handling\obj\Debug\Exception-Handling.pdb

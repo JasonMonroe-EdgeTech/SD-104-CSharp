@@ -1,0 +1,15 @@
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 2 - Flow Control\Control Structure Examples\bin\Debug\Control Structure Examples.exe.config
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 2 - Flow Control\Control Structure Examples\bin\Debug\Control Structure Examples.exe
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 2 - Flow Control\Control Structure Examples\bin\Debug\Control Structure Examples.pdb
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 2 - Flow Control\Control Structure Examples\obj\Debug\Control Structure Examples.csprojResolveAssemblyReference.cache
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 2 - Flow Control\Control Structure Examples\obj\Debug\Control Structure Examples.exe
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 2 - Flow Control\Control Structure Examples\obj\Debug\Control Structure Examples.pdb
+C:\Projects\SD104-CSharp\Control Structure Examples\bin\Debug\Control Structure Examples.exe.config
+C:\Projects\SD104-CSharp\Control Structure Examples\obj\Debug\Control Structure Examples.exe
+C:\Projects\SD104-CSharp\Control Structure Examples\obj\Debug\Control Structure Examples.pdb
+C:\Projects\SD-104-CSharp\Control Structure Examples\bin\Debug\Control Structure Examples.exe.config
+C:\Projects\SD-104-CSharp\Control Structure Examples\obj\Debug\Control Structure Examples.exe
+C:\Projects\SD-104-CSharp\Control Structure Examples\obj\Debug\Control Structure Examples.pdb
+C:\Projects\SD-104-CSharp\Control Structure Examples\bin\Debug\Control Structure Examples.exe
+C:\Projects\SD-104-CSharp\Control Structure Examples\bin\Debug\Control Structure Examples.pdb
+C:\Projects\SD-104-CSharp\Control Structure Examples\obj\Debug\Control Structure Examples.csprojResolveAssemblyReference.cache
