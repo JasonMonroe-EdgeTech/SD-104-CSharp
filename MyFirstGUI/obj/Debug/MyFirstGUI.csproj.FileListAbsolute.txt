@@ -1,0 +1,24 @@
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\bin\Debug\MyFirstGUI.exe.config
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\bin\Debug\MyFirstGUI.exe
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\bin\Debug\MyFirstGUI.pdb
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\obj\Debug\MyFirstGUI.csprojResolveAssemblyReference.cache
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\obj\Debug\MyFirstGUI.Form1.resources
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\obj\Debug\MyFirstGUI.Properties.Resources.resources
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\obj\Debug\MyFirstGUI.csproj.GenerateResource.Cache
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\obj\Debug\MyFirstGUI.exe
+C:\Users\JMonroe\Documents\Ancora\Curriculum\SD 104 ASP.Net and C# Development\Day 5 - Lists and Array Lists\MyFirstGUI\obj\Debug\MyFirstGUI.pdb
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\MyFirstGUI.exe.config
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.exe
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.pdb
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\MyFirstGUI.exe
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\MyFirstGUI.pdb
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.Properties.Resources.resources
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.csproj.GenerateResource.Cache
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.ControlsForm.resources
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.MyNewForm.resources
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\EntityFramework.dll
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\EntityFramework.xml
+C:\Projects\SD-104-CSharp\MyFirstGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\SD-104-CSharp\MyFirstGUI\obj\Debug\MyFirstGUI.frmStopwatch.resources
