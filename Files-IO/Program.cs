@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -43,17 +44,43 @@ namespace Files_IO
 
         }//end Main()
 
+
         static void addNames()
         {
-            
+            //Instantiate a FileStream that will open a file named "names.txt", 
+            FileStream stream1 = new FileStream("names.txt", FileMode.Append, FileAccess.Write);
+            StreamWriter textFile1 = new StreamWriter(stream1);
+
+            Console.WriteLine("Enter a name or type -99 to quit:");
+            string userInput = Console.ReadLine();
+
+            //input loop
+            while(userInput != "-99")
+            {
+                textFile1.WriteLine(userInput);
+                Console.WriteLine("Enter a name or type -99 to quit:");
+                userInput = Console.ReadLine();
+            }
+
+            textFile1.Close();
+           
+
 
         }//end addNames()
 
         static void viewNames()
         {
-            DataAccessor dataAccessor = new DataAccessor();
-            Console.ReadLine();
+            //instantiate a FileStream Object to open "names.txt" with FileMode.Open and FileAccess.Read
+
+            //instantiate a StreamReader Object and pass to it the FileStream Object you created
+
+            //read file in loop while the reader is not at the EndOfStream and display the lines of text
+
+            //Close the file
+
 
         }//end viewNames()
     }
+
+
 }

@@ -7,3 +7,9 @@ C:\Projects\SD-104-CSharp\Files-IO\obj\Debug\Files-IO.pdb
 C:\Projects-Completed\SD-104-CSharp\Files-IO\bin\Debug\Files-IO.exe.config
 C:\Projects-Completed\SD-104-CSharp\Files-IO\obj\Debug\Files-IO.exe
 C:\Projects-Completed\SD-104-CSharp\Files-IO\obj\Debug\Files-IO.pdb
+E:\Ancora\Projects-Completed\SD-104-CSharp\Files-IO\bin\Debug\Files-IO.exe.config
+E:\Ancora\Projects-Completed\SD-104-CSharp\Files-IO\obj\Debug\Files-IO.exe
+E:\Ancora\Projects-Completed\SD-104-CSharp\Files-IO\obj\Debug\Files-IO.pdb
+E:\Ancora\Projects-Completed\SD-104-CSharp\Files-IO\bin\Debug\Files-IO.exe
+E:\Ancora\Projects-Completed\SD-104-CSharp\Files-IO\bin\Debug\Files-IO.pdb
+E:\Ancora\Projects-Completed\SD-104-CSharp\Files-IO\obj\Debug\Files-IO.csprojResolveAssemblyReference.cache

@@ -9,38 +9,47 @@ namespace Files_IO
 {
     class DataAccessor
     {
-       
 
+        String fileName;
 
-        public DataAccessor()
-        { 
-            
+        public DataAccessor(String fileName)
+        {
+            this.fileName = fileName;
+        }
+        
+
+        public void SaveTextToFile(String text)
+        {
+
+        }
+
+        /// <summary>
+        /// Returns a List of string objects obtained from the current text file
+        /// </summary>
+        /// <returns></returns>
+        public List<string> GetTextFromFile()
+        {
+            List<string> fileContents = new List<string>();
 
             //Try to open text files
             try
             {
                 //using block automatically disposes stream after use.
-                using (StreamReader textFile1 = new StreamReader("wordbank.txt"))
+                using (StreamReader textFile = new StreamReader(fileName))
                 {
-                    Console.Write(textFile1.ReadLine());
+                    fileContents.Add(textFile.ReadLine());
                 }
-                    
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine("The following exception occured: " + ex.ToString());
             }
-            finally
-            {
-                //do some more stuff regardless of whether an exception was thrown. 
-            }
-            
-        }
-        
-        //public string GetWord()
-        //{
 
-        //}
+
+            return fileContents;
+        }
+
 
 
     }
